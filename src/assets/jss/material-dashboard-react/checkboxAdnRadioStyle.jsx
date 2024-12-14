@@ -1,4 +1,4 @@
-import { primaryColor } from "../material-kit-react.jsx";
+import { primaryColor } from "../material-dashboard-react.jsx";
 
 const checkboxAdnRadioStyle = {
   root: {
