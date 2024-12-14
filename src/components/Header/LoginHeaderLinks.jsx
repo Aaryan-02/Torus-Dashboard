@@ -9,9 +9,9 @@ import ListItem from "@material-ui/core/ListItem";
 import Tooltip from "@material-ui/core/Tooltip";
 
 // core components
-import Button from "components/CustomButtons/LoginButton.jsx";
+import Button from "../../components/CustomButtons/LoginButton.jsx";
 
-import headerLinksStyle from "assets/jss/material-dashboard-react/components/loginHeaderLinksStyle.jsx";
+import headerLinksStyle from "../../assets/jss/material-dashboard-react/components/loginHeaderLinksStyle.jsx";
 
 function HeaderLinks({ ...props }) {
   const { classes } = props;
