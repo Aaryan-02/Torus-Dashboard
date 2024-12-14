@@ -1,8 +1,8 @@
 import { createAction, handleActions } from 'redux-actions';
 import { Map} from 'immutable';
-import * as alertActions from 'modules/Alert/alert'
+import * as alertActions from '../../modules/Alert/alert'
 import {userService} from './userService';
-import {history} from 'helpers'
+import {history} from '../../helpers'
 
 const REQUEST = 'login/Request';
 const SUCCESS = 'login/SUCCESS';
