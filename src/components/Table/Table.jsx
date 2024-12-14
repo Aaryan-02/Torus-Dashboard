@@ -23,7 +23,7 @@ import {
 import Close from "@material-ui/icons/Close";
 import DeleteIcon from "@material-ui/icons/Delete";
 import VisibilityIcon from "@material-ui/icons/Visibility";
-import tableStyle from "assets/jss/material-dashboard-react/components/tableStyle.jsx";
+import tableStyle from "../../assets/jss/material-dashboard-react/components/tableStyle.jsx";
 
 function CustomTable({ ...props }) {
   const { classes, tableHead, tableData, tableHeaderColor, onDeleteUser } = props;
