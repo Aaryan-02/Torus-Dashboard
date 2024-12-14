@@ -12,13 +12,13 @@ import Header from "components/Header/Header.jsx";
 // import Footer from "components/Footer/Footer.jsx";
 import Sidebar from "components/Sidebar/Sidebar.jsx";
 
-import DashboardRoutes from "routes/DashboardRoute.jsx";
+import DashboardRoutes from "../../routes/DashboardRoute.jsx";
 
-import dashboardStyle from "assets/jss/material-dashboard-react/layouts/dashboardStyle.jsx";
+import dashboardStyle from "../../assets/jss/material-dashboard-react/layouts/dashboardStyle.jsx";
 
-import image from "assets/img/sidebar-2.jpg";
-import logo from "assets/img/reactlogo.png";
-import {loginActions}  from 'modules/Auth/authentication';
+import image from "../../assets/img/sidebar-2.jpg";
+import logo from "../../assets/img/reactlogo.png";
+import {loginActions}  from '../../modules/Auth/authentication';
 import { connect } from 'react-redux';
 
 const switchRoutes = (
