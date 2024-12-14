@@ -14,8 +14,8 @@ import Drawer from "@material-ui/core/Drawer";
 // @material-ui/icons
 import Menu from "@material-ui/icons/Menu";
 // core components
-import headerStyle from "assets/jss/material-dashboard-react/components/loginHeaderStyle.jsx";
-import SnackbarContent from "components/Snackbar/SnackbarContent.jsx";
+import headerStyle from "../../assets/jss/material-dashboard-react/components/loginHeaderStyle.jsx";
+import SnackbarContent from "../../components/Snackbar/SnackbarContent.jsx";
 
 class Header extends React.Component {
   constructor(props) {
