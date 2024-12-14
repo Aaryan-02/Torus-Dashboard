@@ -9,7 +9,7 @@ import { List, ListItem, withStyles } from "@material-ui/core";
 // @material-ui/icons
 import Favorite from "@material-ui/icons/Favorite";
 
-import footerStyle from "assets/jss/material-dashboard-react/components/loginFooterStyle.jsx";
+import footerStyle from "../../assets/jss/material-dashboard-react/components/loginFooterStyle.jsx";
 
 
 function Footer({ ...props }) {
