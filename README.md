@@ -8,7 +8,7 @@ This project is a dynamic dashboard application built with **React.js**, **Redux
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Aaryan-02/Torus-Dashboard.git
    ```
 
 2. **Install Dependencies**
