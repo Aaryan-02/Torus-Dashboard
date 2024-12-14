@@ -46,7 +46,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andyhacool/react-redux-dashboard-starter.git"
+    "url": "git+https://github.com/Aaryan-02/Torus-Dashboard.git"
   },
   "keywords": [],
   "author": "",
@@ -54,7 +54,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://Andyhacool.github.io/react-redux-dashboard-starter",
+  "homepage": "https://github.com/Aaryan-02/Torus-Dashboard.git",
   "optionalDependencies": {
     "babel-eslint": "7.2.3",
     "eslint": "4.19.1",
