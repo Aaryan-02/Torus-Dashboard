@@ -54,7 +54,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://github.com/Aaryan-02/Torus-Dashboard.git",
+  "homepage": "https://torus-dynamic-dashboard.netlify.app/",
   "optionalDependencies": {
     "babel-eslint": "7.2.3",
     "eslint": "4.19.1",
