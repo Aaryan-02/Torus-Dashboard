@@ -1,8 +1,8 @@
 import React from 'react';
-import {loginActions}  from 'modules/Auth/authentication';
+import {loginActions}  from '../../modules/Auth/authentication';
 import { connect } from 'react-redux';
-import LoginPage from 'views/Login/LoginPage'
-import loginPageStyle from "assets/jss/material-dashboard-react/views/loginPage.jsx";
+import LoginPage from '../../views/Login/LoginPage'
+import loginPageStyle from "../../assets/jss/material-dashboard-react/views/loginPage.jsx";
 import withStyles from "@material-ui/core/styles/withStyles";
 
 class Login extends React.Component {
